@@ -1,16 +1,14 @@
-## Hi there 👋
+# Miswaak
 
-<!--
-**Miswaak/Miswaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools that matter.
 
-Here are some ideas to get you started:
+## 🚀 What we do
+- Free community tools
+- Workflow automation solutions
+- Global idea sharing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 First Project
+- Miswaak Azaan (Desktop App)
+
+## 📫 Connect
+- Website: https://miswaakofficial.com
